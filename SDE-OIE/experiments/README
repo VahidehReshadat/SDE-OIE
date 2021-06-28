@@ -1,0 +1,18 @@
+CONTENTS
+============
+
+This folder contains the experimental data. 
+
+The folder structure is as follows:
+binary/			-- Data for the experiment with binary relations.
+	manual/		-- Ground truth was manually annotated.
+		dev/	-- Development sentences.
+		test/	-- Test sentences.
+	automatic/	-- Ground truth was automatically annotated.
+		dev/	-- Development sentences.
+		test/	-- Test sentences.
+nary/			-- Data for the experiment with n-ary relations. 
+				   Ground truth was manually annotated. Test sentences only.
+
+EVALUATION FILES & SCRIPTS
+================
